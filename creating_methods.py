@@ -12,6 +12,8 @@ class Employee:
 
 
 
+
+
 ranjan_emp = Employee()
 lamsal_emp = Employee()
 
@@ -44,6 +46,10 @@ class Const:
 ranjan = Const("Ranjan", "100000", "Backend dev")
 
 print(ranjan.__dict__)
+
+
+
+
 
 
 
